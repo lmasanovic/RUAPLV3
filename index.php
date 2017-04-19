@@ -31,7 +31,7 @@
  //TODO: Update the values for $host, $user, $pwd, and $db
  //using the values you retrieved earlier from the Azure Portal.
 		$host = "127.0.0.1:53623";
-		$user = "root";
+		$user = "azure";
 		$pwd = "";
 		$db = "localdb";
  // Connect to database.
