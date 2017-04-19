@@ -32,7 +32,7 @@
  //using the values you retrieved earlier from the Azure Portal.
 		$host = "127.0.0.1:53623";
 		$user = "azure";
-		$pwd = "";
+		$pwd = "6#vWHD_$";
 		$db = "localdb";
  // Connect to database.
 		try {
